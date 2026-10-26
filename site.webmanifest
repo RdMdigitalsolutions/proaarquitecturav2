@@ -1,0 +1,9 @@
+{
+  "name": "PROA Equip Tècnic d’Arquitectura",
+  "short_name": "PROA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0000fe",
+  "icons": []
+}
